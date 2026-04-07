@@ -1,0 +1,6 @@
+/assets/articles/*
+  cache-control: public, max-age=31536000
+  content-type: image/*
+
+/assets/*
+  cache-control: public, max-age=31536000
